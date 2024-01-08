@@ -1,8 +1,5 @@
-﻿using System;
+﻿using Microsoft.Data.SqlClient;
 using System.Data;
-using System.Data.SqlClient;
-using System.Drawing;
-using System.Windows.Forms;
 
 namespace Mini_Market_Management_System
 {

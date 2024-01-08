@@ -1,7 +1,4 @@
-﻿using System;
-using System.Windows.Forms;
-
-namespace Mini_Market_Management_System
+﻿namespace Mini_Market_Management_System
 {
     internal static class Program
     {

@@ -1,10 +1,6 @@
-﻿using System;
-using System.Data;
-using System.Data.SqlClient;
-using System.Windows.Forms;
-using System.Data.SqlClient;
+﻿using System.Data;
 using DGVPrinterHelper;
-using System.Drawing;
+using Microsoft.Data.SqlClient;
 
 namespace Mini_Market_Management_System
 {
